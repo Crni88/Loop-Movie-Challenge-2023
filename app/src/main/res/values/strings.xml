@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoopMovieApp</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="welcome_to_the_home_screen">Welcome to the Home Screen!</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="rating">Rating</string>
+    <string name="original_language">Original Language</string>
+    <string name="revenue">Revenue</string>
+    <string name="budget">Budget</string>
+    <string name="search">Search</string>
+    <string name="all_movies"><b>All Movies</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="password">Password*</string>
+    <string name="e_mail_address">E-Mail Address*</string>
+    <string name="name">Name</string>
+    <string name="hello">Hello 👋</string>
+    <string name="your_favorites">Your <b>Favorites</b></string>
+    <string name="our_staff_picks">OUR <b>STAFF PICKS</b></string>
+</resources>
